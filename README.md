@@ -10,7 +10,5 @@ My Details:
 
 💬 Ask me about anything, I love to answer!
 
-📫 Get in contact through https://underscoreex.com
+📫 Get in contact through https://www.underscoreex.com
 
-
-Languages and Tools:
