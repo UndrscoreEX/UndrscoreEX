@@ -2,13 +2,12 @@
 My Details:
 
 
-👨🏽‍💻 I’m currently a Python Engineer at a tech start up in Tokyo, Japan
+👨🏽‍💻 I’m currently a Python Engineer at a tech start up in Tokyo, Japan.
+- Python, Flask, HTML/CSS, SQL, AWS Solutions Architect
 
 :office: Consultant/ Marketing Manager in Tokyo, Japan.
 
-🌱 Learning Python, AWS, Fullstack and Back-end development.
-
-💬 Ask me about anything, I love to answer!
+🌱 Building my skills Python, AWS, Fullstack and Back-end development.
 
 📫 Get in contact through https://www.underscoreex.com
 
