@@ -4,7 +4,7 @@ My Details:
 
 I’m currently a Python Engineer at a tech start up in Tokyo, Japan.
 
-👨🏽‍💻 Python, Flask, HTML/CSS, SQL, AWS Solutions Architect
+👨🏽‍💻 Python, Django Flask, HTML/CSS, SQL, Vue.js, AWS Solutions Architect
 
 :office: Consultant/ Marketing Manager in Tokyo, Japan.
 
