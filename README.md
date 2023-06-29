@@ -10,5 +10,5 @@ I’m currently a Python Engineer at a tech start up in Tokyo, Japan.
 
 🌱 Building my skills Python, AWS, Fullstack and Back-end development.
 
-📫 Get in contact through https://www.underscoreex.com
+📫 Get in contact through https://www.underscore-ex.com
 
